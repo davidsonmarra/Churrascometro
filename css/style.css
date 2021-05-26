@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #F3F8FF;
+}
+ 
+.container {
+    width: 33%;
+    height: 100vh;
+    background-color: #B1CFF5;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 20px;
+    border-radius: 40px 0 0 40px;
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: 500;
+    float: right;    
+}
+
+#img-1 {
+    width: 300px;
+}
+
+#img-2{
+    width: 66%;
+    position: fixed;
+    left: 0;
+}
+
+h1 img{
+    width: 300px;
+}
+
+input {
+    width: 35%;
+    margin: 10px auto;
+    display: block;
+    padding: 10px;
+    padding-left: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 10px; 
+    border-style: unset; 
+    background-color: #FEFEFEDD;
+    box-shadow: 10px 5px 5px #999999;
+}
+
+button {
+    padding: 15px 25px;
+    border-radius: 10px;
+    border-style: unset;
+    margin: 20px 0;
+    color: #FEFEFE;
+    font-size: 1.1em;
+    background-color: #131313BB;
+    transition: 1s;
+}
+
+button:hover {
+    background-color: #13131399;
+    transform: scale(1.125);
+    cursor:pointer;
+}
+
+#resultado p {
+    display: block;
+    margin-bottom: 10px;
+    
+}
+
+#resultado p img {
+    width: 30px;
+    vertical-align: top;
+    margin-right: 10px;
+}
