@@ -2,7 +2,7 @@
 
 ![Churrascômetro](./assets/print.png)
 
-> Churrascômetro - Saiba o quanto comprar para fazer aquele churrasco com a família!
+> Churrascômetro - Saiba o quanto comprar para fazer aquele churrasco com a família e os amigos!
 
 <h1>
 
