@@ -1,6 +1,6 @@
 # Desafio Churrascômetro
 
-![Churrascômetro](./assets/print.png)
+![Churrascômetro](./assets/print-site.png)
 
 > Churrascômetro - Saiba o quanto comprar para fazer aquele churrasco com a família e os amigos!
 
